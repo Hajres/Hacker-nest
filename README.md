@@ -1,6 +1,6 @@
 # Hacker-nest
 
-It is a hacker news clone.
+A hacker news clone, shows you different hacking news and users.
 App here : https://frosty-kalam-6eb7a0.netlify.app/
 
 Some technologies used :
